@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<HTML>
+<head>
+<meta charset='utf-8'/>
+<b:skin><![CDATA[
+    
+    ]]></b:skin>
+    <title>HTML5</title>
+  </head>
+  <body>
+    <b:section id='HTML5'/>
+  </body> 
+</HTML>
